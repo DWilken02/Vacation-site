@@ -4,10 +4,10 @@
 
 ## Technologies used
 
-*Bootstrap
-*css
-*HTMl
-*Markdown
+* Bootstrap
+* css
+* HTMl
+* Markdown
 
 ## Description
 
